@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Qualcomm Augmented Reality\Scripts\Internal\BGRenderingBehaviour.cs">
+    <Files>
+      <File FileName="Assets\Qualcomm Augmented Reality\Scripts\Internal\BGRenderingBehaviour.cs" Line="41" Column="1" />
+      <File FileName="Assets\ZoomCamera.js" Line="61" Column="22" />
+      <File FileName="Assets\CubeMove.js" Line="10" Column="35" />
+      <File FileName="Assets\gridtest.js" Line="21" Column="6" />
+      <File FileName="Assets\PopupList.js" Line="37" Column="31" />
+      <File FileName="Assets\Openning.js" Line="3" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Popup.cs" Line="31" Column="109" />
+      <File FileName="Assets\Qualcomm Augmented Reality\Scripts\DefaultTrackableEventHandler.cs" Line="84" Column="1" />
+      <File FileName="Assets\NewBehaviourScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Movie.js" Line="2" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
